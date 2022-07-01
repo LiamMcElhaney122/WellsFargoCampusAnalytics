@@ -1,0 +1,7 @@
+*.ipynb
+test.*
+.vscode
+*.idea
+*.__pycahce__
+
+model_vectors/*
